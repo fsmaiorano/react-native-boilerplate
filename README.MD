@@ -1,6 +1,6 @@
 ## React Native Boilerplate
 
-Initial config for React Native Projects.
+:iphone: Initial config for React Native Projects.
 
 ## Requeriments
 *   npm or yarn
